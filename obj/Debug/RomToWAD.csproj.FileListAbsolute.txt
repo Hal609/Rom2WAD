@@ -1,0 +1,10 @@
+C:\Users\nicol\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Rom2WAD.resources
+C:\Users\nicol\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RomToWAD.csproj.GenerateResource.cache
+C:\Users\nicol\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RomToWAD.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Rom2WAD.exe.config
+C:\Users\nicol\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Rom2WAD.exe
+C:\Users\nicol\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Rom2WAD.pdb
+C:\Users\nicol\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Rom2WAD.Properties.Resources.resources
+C:\Users\nicol\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Rom2WAD.exe
+C:\Users\nicol\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Rom2WAD.pdb
+C:\Users\nicol\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RomToWAD.csprojAssemblyReference.cache
