@@ -250,5 +250,10 @@ namespace WindowsFormsApp1
                 channelName.SelectionStart = (channelName.Text.Length - 1);
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Process.Start(System.IO.Path.GetDirectoryName(Application.ExecutablePath));
+        }
     }
 }
