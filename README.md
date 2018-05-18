@@ -27,3 +27,5 @@ This title will be reflected when you hover the channel on your Wii.
 Special thanks to @WooAf and @RizeYuzuki for making this tool.
 
 Please make sure you join Discord's Server "OoT Randomizer"!
+
+https://discord.gg/JTjWJrg
