@@ -167,9 +167,9 @@
             this.label4.Location = new System.Drawing.Point(10, 82);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(151, 20);
+            this.label4.Size = new System.Drawing.Size(159, 20);
             this.label4.TabIndex = 22;
-            this.label4.Text = "US OoT 1.0 WAD :";
+            this.label4.Text = "Original OoT WAD :";
             this.label4.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             this.label4.Click += new System.EventHandler(this.label3_Click);
             // 
