@@ -1,4 +1,4 @@
-# OoT-WAD-Injector
+# Rom2WAD
 
 Note that this program is meant for Windows users.
 
