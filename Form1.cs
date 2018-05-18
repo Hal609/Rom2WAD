@@ -134,7 +134,7 @@ namespace WindowsFormsApp1
             }
             else if (File.Exists(textBox2.Text + textBox3.Text) != true)
             {
-                DialogResult dialogResult = MessageBox.Show("GZInject.exe not found in directory. Would you like to browse for the exe? (You only need to do this once)", "GZInject Not Found", MessageBoxButtons.YesNo);
+                DialogResult dialogResult = MessageBox.Show("GZInject.exe not found in directory. Would you like to browse for the exe? (You only need to do this once).", "GZInject Not Found", MessageBoxButtons.YesNo);
                 if (dialogResult == DialogResult.Yes)
                 {
                     Stream myStream = null;
