@@ -134,7 +134,7 @@ namespace WindowsFormsApp1
             }
             else if (File.Exists(textBox2.Text + textBox3.Text) != true)
             {
-                DialogResult dialogResult = MessageBox.Show("GZInject.exe not found in directory. Would you like to browse for the exe? (You only need to do this once).", "GZInject Not Found", MessageBoxButtons.YesNo);
+                DialogResult dialogResult = MessageBox.Show("GZInject.exe not found in directory. Would you like to browse for the exe? (You only need to do this once)", "GZInject Not Found", MessageBoxButtons.YesNo);
                 if (dialogResult == DialogResult.Yes)
                 {
                     Stream myStream = null;
@@ -215,9 +215,17 @@ namespace WindowsFormsApp1
 
             if (File.Exists(textFileLocation))
             {
-                string line1 = File.ReadLines(textFileLocation).First(); 
-                RTB_USWadPath.Text = line1;
-                textBox1.Text = line1;
+                try
+                {
+                    string line1 = File.ReadLines(textFileLocation).First();
+                    RTB_USWadPath.Text = line1;
+                    textBox1.Text = line1;
+                }
+                catch
+                {
+
+                }
+               
             }
 
         }
